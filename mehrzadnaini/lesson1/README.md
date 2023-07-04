@@ -3,7 +3,7 @@
 ## Setup project 
 
 1- clone the project 
-* `git@github.com:mehrzadnaini/html-css.git`
+* `git clone git@github.com:mehrzadnaini/html-css.git`
 * 
 2- create a new branch with your github-name and lesson number
 * e.g `git checkout -b mehrzadnaini-lesson-1`
