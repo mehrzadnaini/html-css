@@ -1,5 +1,9 @@
 # Lesson 1
-
+## Description:
+ In this lesson, we only try to create a new branch on this repository and a PR based on your created branch. 
+ follow steps help you to understand the general idea of creating `branch` and `PR (pull request)`
+ if the steps are incomplete, feel free to update them on your PR. 
+ 
 ## Setup project 
 
 1- clone the project 
