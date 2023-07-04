@@ -20,4 +20,6 @@
 * `git push origin  mehrzadnaini-lesson-1`
 
 6- open github on the browser, and you will see a notification to create PR(pull request). create a pull request on the project 
+7- add your branch url to the main `README.md` by using this format
 
+* `[mehrzadnaini](https://mehrzadnaini.github.io/html-css/mehrzadnaini)
